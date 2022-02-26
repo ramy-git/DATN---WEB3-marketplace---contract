@@ -1,0 +1,23 @@
+{
+  "name": "datn---web3-marketplace---contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phuongduc123/DATN---WEB3-marketplace---contract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phuongduc123/DATN---WEB3-marketplace---contract/issues"
+  },
+  "homepage": "https://github.com/Phuongduc123/DATN---WEB3-marketplace---contract#readme",
+  "devDependencies": {
+    "hardhat": "^2.8.4"
+  }
+}
